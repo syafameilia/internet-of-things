@@ -163,7 +163,6 @@
 
 
 
-
       <meta name="hostname" content="github.com">
 
 
@@ -182,7 +181,7 @@
 
     <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/QAILA1/IOT_TUGAS git https://github.com/QAILA1/IOT_TUGAS.git">
+  <meta name="go-import" content="github.com/QAILA1/IOT_TUGAS git https://github.com/syafameilia/internet-of-things.git">
 
   <meta name="octolytics-dimension-user_id" content="200015417" /><meta name="octolytics-dimension-user_login" content="QAILA1" /><meta name="octolytics-dimension-repository_id" content="1006574916" /><meta name="octolytics-dimension-repository_nwo" content="QAILA1/IOT_TUGAS" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="1006574916" /><meta name="octolytics-dimension-repository_network_root_nwo" content="QAILA1/IOT_TUGAS" />
 
